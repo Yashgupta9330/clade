@@ -27,7 +27,7 @@ export default function Navbar(){
         </div>
         <div className='hidden md:block'>
           <div className='flex items-center justify-center gap-3'>
-          <div className="relative"><div className="circle absolute bg-[#DC4A2D] left-[20px]"></div><Image src="/BellLogo.svg" alt="Bell" width={32} height={32}/></div>
+          <div className="relative"><div className="circle absolute bg-[#DC4A2D] left-[20px]"></div><Image src="/bellLogo.svg" alt="Bell" width={32} height={32}/></div>
           <div className="flex items-center justify-center gap-1">
           <Image src="/Logo.png" alt="Logo" width={40} height={40}/> 
           <IoIosArrowDown />
