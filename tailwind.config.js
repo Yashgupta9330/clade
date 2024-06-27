@@ -12,6 +12,21 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        satoshi: ['Satoshi Variable', 'sans-serif'],
+      },
+      fontSize: {
+        '20px': '20px',
+      },
+      lineHeight: {
+        '27px': '27px',
+      },
+      fontWeight: {
+        700: 700,
+      },
+      borderColor: {
+        'custom-success': 'var(--Component-colors-Utility-Success-utility-success-200, #ABEFC6)',
+      },
     },
   },
   plugins: [],
