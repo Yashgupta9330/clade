@@ -14,7 +14,7 @@ export default function Down() {
                     </div>
                     </div>
                     <div className='flex flex-col sm:flex-row gap-10 mt-4 mb-16 text-[#5D5D5D] font-medium text-[20px] leading-[27px]'>
-                        <p className='flex gap-2 '> <Image src="/Location.png" width={24} height={24} />{data.Location}</p>
+                        <p className='flex gap-2'> <Image src="/location.png" width={24} height={24} />{data.Location}</p>
                         <p className='flex gap-2 '> <Image src="/coins-stacked-03.png" width={24} height={24} />{data.Salary}</p>
                     </div>
                 </div>
